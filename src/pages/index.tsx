@@ -30,7 +30,7 @@ const Home: NextPage = () => {
               Documentation
             </a>
           </section>
-          <section className="flex flex-col justify-center p-6 duration-500 border-2 border-gray-500 rounded shadow-xl motion-safe:hover:scale-105">
+          <section className="flex flex-col justify-center p-6 duration-500 border-2 border-gray-500 rounded shadow-xl motion-safe:hover:scale-105 heropattern-jigsaw-red-100">
             <h2 className="text-lg text-gray-700">TypeScript</h2>
             <p className="text-sm text-gray-600">
               Strongly typed programming language that builds on JavaScript,
