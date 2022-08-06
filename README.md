@@ -6,7 +6,17 @@
 
 ##### To build something, gain experience, work as a team, challenge yourself and others. Building features around something that is builder owned. This is something that needs to be understood and built up in a trustless way. If we can bring together a foundation Board of Directors. We can lock away the group funds under a multisig wallet.
 
-##### This involves NFT's but I don't want you to think about them as anything but a pointer in a database. We can use [BlockFrost API](https://blockfrost.io/).
+##### To build something, gain experience, work as a team, challenge yourself and others. Building features around something that is builder owned. This is something that needs to be understood and built up in a trustless way. If we can bring together a foundation Board of Directors. We can lock away the group funds under a multisig wallet.
+
+Come checkout our community and ask any questions you have:
+Cardano Goat Website: https://cardanogoat.io/
+Discord: https://discord.gg/Dme3rqSjug
+Medium: https://medium.com/@cardanogoat
+Reddit: https://www.reddit.com/r/cardanogoat/
+Twitch : https://www.twitch.tv/cardanogoat
+Twitter: https://twitter.com/Cardano_G_O_A_T
+
+##### This involves NFT's but I don't want you to think about them as anything but a pointer in a database. We can use [BlockFrost API](https://blockfrost.io/). Using the NFT policy ID for Cardano Goat: 65e25586798da863ffdf863053c0b412a5a4019edfc8e0ac9f2cc580
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Benderjrk/goating-out-template?style=plastic)
 
